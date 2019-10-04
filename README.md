@@ -22,4 +22,4 @@ Program made for the DeAnza bookstore
 * present sales data
 
 ### Exit
-> when exiting the program shows net profit 
+* when exiting the program shows net profit 
